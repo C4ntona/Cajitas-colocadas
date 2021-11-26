@@ -1,0 +1,26 @@
+
+div {
+ background-color:#65FEFE ;
+ border: 2px solid purple;
+ position: absolute;
+ width: 100px;
+ height: 100px;
+ text-align: center;
+}
+
+#choco {
+left: 150px;
+}
+
+.nata {
+ left: 300px; 
+}
+
+#nata {
+ 
+    left: 450px;
+}
+
+.fresa {
+    left: 600px;
+}
